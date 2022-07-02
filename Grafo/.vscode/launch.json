@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/alexaleq321/MeusCodigos1/C/ED/Hash",
-      "program": "/home/alexaleq321/MeusCodigos1/C/ED/Hash/build/Debug/outDebug",
+      "cwd": "/home/alexaleq321/MeusCodigos1/C/ED/Grafo",
+      "program": "/home/alexaleq321/MeusCodigos1/C/ED/Grafo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -1,0 +1,50 @@
+ 1156                               Andre Iglesias Nunes  2000.00f
+ 2300                                       Breno Macedo  8000.00f
+ 1414                               Bruna Andrade Garcia  9000.00f
+ 2505                                       Diva Andrade  4500.00f
+ 1144                                   Diva Dias Kohler  5500.00f
+ 1217                                    Dolores Pereira  8500.00f
+ 1805                            Drauzio Ullmann Noronha  9000.00f
+ 3328                             Eduardo Campos Ururahy  5000.00f
+ 3042                                    Eva Rios Vargas  5500.00f
+ 2586                               Fabio Campos Antunes 18000.00f
+ 1511                            Fabiola Keller Monteiro  3500.00f
+ 2904                                     Fabiola Soares  4500.00f
+ 1299                                        Felix Uchoa  6500.00f
+ 2396                                          Helena Xu 10000.00f
+ 1708                                    Henrique Keller  9000.00f
+ 2123                          Henrique Rios Evangelista 25000.00f
+ 3403                                 Honorina Bernardes  3500.00f
+ 1610                               Ivo Encarnacao Leite 13000.00f
+ 1876                               Janio Garcia Queiroz 10000.00f
+ 2200                               Jessica Lage Almeida 15000.00f
+ 1474                              Jonas Rodrigues Nunes  8000.00f
+ 2814                                     Kamila Ximenes  2500.00f
+ 1463                                  Lauro Kruger Rios 10000.00f
+ 1952                                       Luana Cortez 10000.00f
+ 1617                           Lurdes da Silva da Costa  9000.00f
+ 1134                                   Marcos Hernandez 10000.00f
+ 2036                                      Maria Pereira  2000.00f
+ 2666                                      Mirko Olimpio  8000.00f
+ 3198                                  Nando Uribe Oliva  3000.00f
+ 1000                          Norma Evangelista Noronha  2000.00f
+ 2925                                        Olga Kohler  8500.00f
+ 3067                               Olga Queiros Igrejas  3500.00f
+ 1253                                Olga Souza Monteiro  2500.00f
+ 2385                           Paulo Evangelista Cortez  8500.00f
+ 3271                                      Perla Zanetti  2000.00f
+ 2642                                     Quemuel Gentil  4000.00f
+ 2717                                    Quemuel Vicente 25000.00f
+ 1442                              Quesia Trindade Leite  8000.00f
+ 3117                              Rodrigo Oliva Quercia  2500.00f
+ 2430                          Rogeria Trindade Olivares  3000.00f
+ 1284                               Rogeria Xavi Marques 18000.00f
+ 2598                            Ronda Quercia Bernardes  6500.00f
+ 1404                                     Tabata Almeida  4500.00f
+ 1825                                        Tereza Lins  3500.00f
+ 2095                                   Ueverton Holanda  5500.00f
+ 2985                                     Uma Teles Ruiz  8500.00f
+ 1048                           Vitoria Teles Encarnacao  5500.00f
+ 2047                                   Viviane Nogueira 20000.00f
+ 2751                                Ziraldo Kruger Cruz  3500.00f
+ 1377                                 Ziraldo Zahn Jesus 15000.00f
