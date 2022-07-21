@@ -1,0 +1,16 @@
+8
+Alex
+5
+Joao
+7
+Matheus
+19
+Andreza
+10
+Brenda
+2
+Marcos
+50
+Lucia
+-1
+

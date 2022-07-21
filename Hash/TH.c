@@ -48,7 +48,7 @@ int hash(void *chave, int tam_chave, int n){
 }
 
 int hash_linear(void *chave, int n, int tam_chave, int k){
-    return (hash(chave,tam_chave,n)+k)%n;
+    return (hash(chave,tam_chave,n)+k)%n; // mudei para linear 
 }
 
 

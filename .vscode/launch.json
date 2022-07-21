@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -8,8 +9,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/alexaleq321/MeusCodigos1/C/ED/Hash",
-      "program": "/home/alexaleq321/MeusCodigos1/C/ED/Hash/build/Debug/outDebug",
+      "cwd": "/home/alexaleq321/MeusCodigos1/C/ED/ArvBdeBusca",
+      "program": "/home/alexaleq321/MeusCodigos1/C/ED/ArvBdeBusca/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

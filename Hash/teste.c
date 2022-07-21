@@ -286,7 +286,7 @@ void teste(){
 
 int main(void){
  
-    teste_char();
+    //teste_char();
     
     //  teste();
     
@@ -297,4 +297,28 @@ int main(void){
     // exemplo_pares_de_pontos_simetricos();
 
 
+    // Minhas funções
+
+    char *letras = "alexx";
+    duplicata(letras);
+
+}
+
+
+void duplicata(char *vetor){
+    
+    int tam_array = 4;
+    TTabHash *tth = TH_criar(tam_array, sizeof(int), sizeof(char) );
+
+    for(int i = 0; i<4; i++){
+        printf("%c ", vetor[i]);
+    }
+    int c = 0;
+    while(c < 4){
+        TH_inserir(tth, vetor[c], vetor[c]);
+
+    }
+    
+    TH_imprimir(tth);
+    return;
 }
